@@ -16,27 +16,35 @@ export const skills = [
 
 export const projects = [
   {
-    titulo: "Landing Corporativa Responsive",
-    descripcion: "Landing en HTML5, CSS3 y Bootstrap. Performance y mobile-first.",
-    stack: ["HTML5", "CSS3", "Bootstrap"],
-    repoUrl: "https://github.com/tu-usuario/landing-bootstrap",
-    demoUrl: "https://landing-bootstrap.vercel.app",
-    cover: "/projects/landing.svg",
+    titulo: "CRUDApp",
+    descripcion: "CRUD de tareas en JavaScript puro (sin frameworks). Alta/Baja/Modificación/Listado y persistencia simple.",
+    stack: ["JavaScript","HTML","CSS"],
+    repoUrl: "https://github.com/LiderSalinas/crudapp",
+    demoUrl: "https://lidersalinas.github.io/crudapp/",
+    cover: "/projects/crud.svg"
   },
   {
-    titulo: "CRUD de Tareas (React)",
-    descripcion: "App de tareas con React + LocalStorage (opcional API JSONPlaceholder).",
-    stack: ["React", "JavaScript"],
-    repoUrl: "https://github.com/tu-usuario/react-crud-tasks",
-    demoUrl: "https://react-crud-tasks.vercel.app",
-    cover: "/projects/crud.svg",
+    titulo: "Vue + Node + MySQL",
+    descripcion: "App fullstack con Vue en el frontend y API Node conectada a MySQL.",
+    stack: ["Vue","Node.js","MySQL"],
+    repoUrl: "https://github.com/LiderSalinas/vue-node-mysql",
+    demoUrl: "#",
+    cover: "/projects/landing.svg"
   },
   {
-    titulo: "Mini Dashboard (Next.js)",
-    descripcion: "Dashboard con Next.js consumiendo API pública (cards, tabla, filtros).",
-    stack: ["Next.js", "Bootstrap"],
-    repoUrl: "https://github.com/tu-usuario/next-dashboard",
-    demoUrl: "https://next-dashboard.vercel.app",
-    cover: "/projects/dashboard.svg",
+    titulo: "API Gym (Node)",
+    descripcion: "Backend para gestión de gimnasio: clientes, cuotas y pagos. Pensado para exponer endpoints REST.",
+    stack: ["Node.js","Express"],
+    repoUrl: "https://github.com/LiderSalinas/gym-system-backend",
+    demoUrl: "#",
+    cover: "/projects/dashboard.svg"
   },
+  {
+    titulo: "Prueba Águila",
+    descripcion: "Proyecto de práctica en JavaScript, enfocado en lógica y DOM.",
+    stack: ["JavaScript","HTML","CSS"],
+    repoUrl: "https://github.com/LiderSalinas/prueba-aguila",
+    demoUrl: "#",
+    cover: "/projects/landing.svg"
+  }
 ];
