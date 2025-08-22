@@ -1,10 +1,10 @@
 export const profile = {
-  nombre: "Líder Salinas",
-  rol: "Desarrollador Fullstack – React/Next.js • Python/FastAPI",
+  nombre: "Lider Salinas",
+  rol: "Desarrollador Fullstack - React/Next.js y Python/FastAPI",
   resumen:
-    "Construyo aplicaciones completas: frontend moderno (React/Next.js) y APIs robustas (Python/FastAPI). Foco en rendimiento, UI limpia y buenas prácticas.",
+    "Construyo aplicaciones completas: frontend moderno (React/Next.js) y APIs robustas (Python/FastAPI). Enfoque en rendimiento, UI limpia y buenas practicas.",
   email: "rubensalinas05@gmail.com",
-  linkedin: "https://www.linkedin.com/in/líder-rubén-salinas-blanco-729705250",
+  linkedin: "https://www.linkedin.com/in/lider-salinas", // reemplaza luego en VS Code si queres tu URL exacta
   ubicacion: "Paraguay (Remoto)",
 };
 
@@ -17,7 +17,7 @@ export const skills = [
 export const projects = [
   {
     titulo: "CRUDApp",
-    descripcion: "CRUD de tareas en JavaScript puro (sin frameworks). Alta/Baja/Modificación/Listado y persistencia simple.",
+    descripcion: "CRUD de tareas en JavaScript puro (sin frameworks). ABM y persistencia simple.",
     stack: ["JavaScript","HTML","CSS"],
     repoUrl: "https://github.com/LiderSalinas/crudapp",
     demoUrl: "https://lidersalinas.github.io/crudapp/",
@@ -28,20 +28,20 @@ export const projects = [
     descripcion: "App fullstack con Vue en el frontend y API Node conectada a MySQL.",
     stack: ["Vue","Node.js","MySQL"],
     repoUrl: "https://github.com/LiderSalinas/vue-node-mysql",
-    demoUrl: "https://lidersalinas.github.io/prueba-aguila/",
+    demoUrl: "#",
     cover: "/projects/landing.svg"
   },
   {
     titulo: "API Gym (Node)",
-    descripcion: "Backend para gestión de gimnasio: clientes, cuotas y pagos. Pensado para exponer endpoints REST.",
+    descripcion: "Backend para gestion de gimnasio: clientes, cuotas y pagos. Endpoints REST.",
     stack: ["Node.js","Express"],
     repoUrl: "https://github.com/LiderSalinas/gym-system-backend",
-    demoUrl: "https://lidersalinas.github.io/prueba-aguila/",
+    demoUrl: "#",
     cover: "/projects/dashboard.svg"
   },
   {
-    titulo: "Prueba Águila",
-    descripcion: "Proyecto de práctica en JavaScript, enfocado en lógica y DOM.",
+    titulo: "Prueba Aguila",
+    descripcion: "Proyecto de practica en JavaScript, enfocado en logica y DOM.",
     stack: ["JavaScript","HTML","CSS"],
     repoUrl: "https://github.com/LiderSalinas/prueba-aguila",
     demoUrl: "https://lidersalinas.github.io/prueba-aguila/",
