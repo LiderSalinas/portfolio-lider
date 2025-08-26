@@ -1,10 +1,10 @@
-export const profile = {
+﻿export const profile = {
   nombre: "Lider Salinas",
   rol: "Desarrollador Fullstack - React/Next.js y Python/FastAPI",
   resumen:
     "Construyo aplicaciones completas: frontend moderno (React/Next.js) y APIs robustas (Python/FastAPI). Enfoque en rendimiento, UI limpia y buenas practicas.",
   email: "rubensalinas05@gmail.com",
-  linkedin: "linkedin.com/in/líder-rubén-salinas-blanco-729705250", 
+  linkedin: "https://www.linkedin.com/in/l%C3%ADder-rub%C3%A9n-salinas-blanco-729705250/", 
   ubicacion: "Paraguay (Remoto)",
 };
 
@@ -41,3 +41,4 @@ export const projects = [
     cover: "/projects/landing.svg"
   }
 ];
+
