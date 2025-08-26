@@ -4,7 +4,7 @@ export const profile = {
   resumen:
     "Construyo aplicaciones completas: frontend moderno (React/Next.js) y APIs robustas (Python/FastAPI). Enfoque en rendimiento, UI limpia y buenas practicas.",
   email: "rubensalinas05@gmail.com",
-  linkedin: "https://www.linkedin.com/in/lider-salinas", 
+  linkedin: "linkedin.com/in/líder-rubén-salinas-blanco-729705250", 
   ubicacion: "Paraguay (Remoto)",
 };
 
