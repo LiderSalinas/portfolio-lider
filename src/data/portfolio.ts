@@ -4,7 +4,7 @@ export const profile = {
   resumen:
     "Construyo aplicaciones completas: frontend moderno (React/Next.js) y APIs robustas (Python/FastAPI). Enfoque en rendimiento, UI limpia y buenas practicas.",
   email: "rubensalinas05@gmail.com",
-  linkedin: "https://www.linkedin.com/in/lider-salinas", // reemplaza luego en VS Code si queres tu URL exacta
+  linkedin: "https://www.linkedin.com/in/lider-salinas", 
   ubicacion: "Paraguay (Remoto)",
 };
 
@@ -16,21 +16,14 @@ export const skills = [
 
 export const projects = [
   {
-    titulo: "CRUDApp",
+    titulo: "CRUDAPP",
     descripcion: "CRUD de tareas en JavaScript puro (sin frameworks). ABM y persistencia simple.",
     stack: ["JavaScript","HTML","CSS"],
     repoUrl: "https://github.com/LiderSalinas/crudapp",
-    demoUrl: "https://lidersalinas.github.io/crudapp/",
+    demoUrl: 'https://client-22c6xlilu-liders-projects-f97f0ffc.vercel.app',
     cover: "/projects/crud.svg"
   },
-  {
-    titulo: "Vue + Node + MySQL",
-    descripcion: "App fullstack con Vue en el frontend y API Node conectada a MySQL.",
-    stack: ["Vue","Node.js","MySQL"],
-    repoUrl: "https://github.com/LiderSalinas/vue-node-mysql",
-    demoUrl: "#",
-    cover: "/projects/landing.svg"
-  },
+
   {
     titulo: "API Gym (Node)",
     descripcion: "Backend para gestion de gimnasio: clientes, cuotas y pagos. Endpoints REST.",
@@ -44,7 +37,7 @@ export const projects = [
     descripcion: "Proyecto de practica en JavaScript, enfocado en logica y DOM.",
     stack: ["JavaScript","HTML","CSS"],
     repoUrl: "https://github.com/LiderSalinas/prueba-aguila",
-    demoUrl: "https://lidersalinas.github.io/prueba-aguila/",
+    demoUrl: "https://prueba-aguila.vercel.app/",
     cover: "/projects/landing.svg"
   }
 ];
