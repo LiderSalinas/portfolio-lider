@@ -6,13 +6,14 @@ export default function Footer() {
       <small>
   Â© 2025 LÃ­der Salinas Â·{" "}
   <a
-  href="https://www.linkedin.com/in/lider-ruben-salinas-blanco-729705250"
+  href="https://www.linkedin.com/in/líder-rubén-salinas-blanco-729705250/"
   target="_blank"
   rel="noopener noreferrer"
   className="ms-2"
 >
   LinkedIn
 </a>
+
 {" "}
   Â·{" "}
   <a href="mailto:rubensalinas05@gmail.com">rubensalinas05@gmail.com</a>
